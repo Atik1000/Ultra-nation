@@ -1,0 +1,10 @@
+.flag-img{
+    height: 100px;
+    width: 200px;
+}
+.country{
+    border: 1px solid lightgray;
+    height: 300px;
+    width: 300px;
+    margin-left: 50%;
+}
